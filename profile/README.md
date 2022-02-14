@@ -6,6 +6,6 @@ We discuss specific research topics in our monthly [INPUT Research Meetings](htt
 
 For more information about INPUT, please visit our website at ISPM: [https://www.ispm.unibe.ch/research/research_groups/input/](https://www.ispm.unibe.ch/research/research_groups/input/)
 
-[![](video.png)](https://www.youtube.com/embed/doSjPAjVJjY)
+[![](https://github.com/INPUTBern/.github/blob/main/profile/video.png)](https://www.youtube.com/embed/doSjPAjVJjY)
 
 Christian Althaus (ISPM) and Kevin Heng (CSH) [explain](https://www.uniaktuell.unibe.ch/2020/what_exoplanets_have_to_do_with_the_coronavirus/index_eng.html) what exoplanets have to do with the coronavirus.
