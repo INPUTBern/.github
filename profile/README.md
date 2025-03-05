@@ -4,7 +4,7 @@ We are interested in applications of statistical and machine learning in epidemi
 
 We discuss specific research topics in our monthly [INPUT Research Meetings](https://github.com/INPUTBern/research-meetings).
 
-For more information about INPUT, please visit our website at ISPM: [https://www.ispm.unibe.ch/research/research_groups/input/](https://www.ispm.unibe.ch/research/research_groups_and_themes/input/index_eng.html)
+For more information about INPUT, please visit our website at ISPM: [[https://www.ispm.unibe.ch/research/research_groups/input/](https://www.ispm.unibe.ch/research/research_groups_and_themes/input/index_eng.html)](https://www.ispm.unibe.ch/research/research_groups_and_themes/input/index_eng.html)
 
 [![](https://github.com/INPUTBern/.github/blob/main/profile/video.png)](https://www.youtube.com/embed/doSjPAjVJjY)
 
